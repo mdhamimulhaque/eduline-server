@@ -6,11 +6,17 @@ const port = 5000;
 app.use(cors())
 
 const courses = require("./data/courses.json");
+const navbarData = require("./data/navbarData.json")
 
 
 // ---> check server
 app.get('/', (req, res) => {
     res.send('server is running...')
+})
+
+// ---> navbar data
+app.get('/navbar-data', (req, res) => {
+    res.send(navbarData)
 })
 
 // --->all courses 

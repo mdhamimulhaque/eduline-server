@@ -4,7 +4,7 @@ var cors = require('cors')
 const port = 5000;
 
 app.use(cors())
-
+// ---> check server
 app.get('/', (req, res) => {
     res.send('server is running...')
 })

@@ -1,23 +1,23 @@
 [
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-        "category_id": "javascript",
+        "category_id": "english_speaking",
         "rating": {
-            "number": 4.7,
+            "number": 5,
             "badge": "Excellent"
         },
         "total_view": 29724,
-        "title": "Modern JavaScript From The Beginning",
-        "name": "JavaScript",
+        "title": "English Speaking Complete: English Language Mastery",
+        "name": "English Speaking Mastery",
         "tag": "web",
         "language": "English",
-        "image_url": "https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=996&t=st=1666635670~exp=1666636270~hmac=a99138e84f861970ca2b261b89378879eae704eb084d5c1abd0d38db3e7f17db",
-        "details": "JavaScript (JS) is a lightweight interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM.",
+        "image_url": "https://img.freepik.com/free-vector/english-teacher-concept-illustration_114360-7477.jpg?w=996&t=st=1666686304~exp=1666686904~hmac=7c51359cb6761f9d91e92a19903f9c08962fb07811ad0da0af4c8f92ee3d9b63",
+        "details": "Here you can find activities to practise your speaking skills. You can improve your speaking by noticing the language we use in different situations and practising useful phrases.The self-study lessons in this section are written and organised according to the levels of the Common European Framework of Reference for languages (CEFR). There are videos of different conversations at work and interactive exercises that practise the speaking skills you need to get ahead at work and communicate in English. The videos help you practise saying the most useful language and the interactive exercises will help you remember and use the phrases. Take our free online English test to find out which level to choose.",
         "overview": [
-            "Modular learning sections & 10 real world projects with pure JavaScript",
-            "Master the DOM (document object model) WITHOUT jQuery",
-            "Asynchronous programming with Ajax, Fetch API, Promises & Async / Await",
-            "OOP including ES5 prototypes & ES2015 classes"
+            "Learn beginner to advanced English Speaking skills",
+            "Understand and use English grammar",
+            "Master English vocabulary and native phrases",
+            "Build confidence in English Language"
         ]
     },
     {

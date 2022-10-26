@@ -31,6 +31,13 @@ app.get('/course-details/:id', (req, res) => {
     res.send(courseDetails)
 })
 
+//---> checkout 
+app.get('/checkout/:id', (req, res) => {
+    const id = (req.params.id);
+    const checkoutItem = courses.find(crs => crs._id === id)
+    res.send(checkoutItem)
+})
+
 app.listen(port, () => {
     console.log(`This server is running from ${port}`)
 })

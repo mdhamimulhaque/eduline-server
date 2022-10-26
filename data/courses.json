@@ -32,7 +32,7 @@
         "name": "React JS",
         "category": "Web Design And Development",
         "language": "English",
-        "image_url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "image_url": "https://cdn.educba.com/academy/wp-content/uploads/2018/10/Top-Uses-Of-reactjs.jpg",
         "details": "ReactJS tutorial provides basic and advanced concepts of ReactJS. Currently, ReactJS is one of the most popular JavaScript front-end libraries which has a strong foundation and a large community. ReactJS is a declarative, efficient, and flexible JavaScript library for building reusable UI components. It is an open-source, component-based front end library which is responsible only for the view layer of the application. It was initially developed and maintained by Facebook and later used in its products like WhatsApp & Instagram. Our ReactJS tutorial includes all the topics which help to learn ReactJS. These are ReactJS Introduction, ReactJS Features, ReactJS Installation, Pros and Cons of ReactJS, ReactJS JSX, ReactJS Components, ReactJS State, ReactJS Props, ReactJS Forms, ReactJS Events, ReactJS Animation and many more.",
         "overview": [
             "Build a scaleable API with authentication using Express, Mongo, and Passport",
@@ -53,7 +53,7 @@
         "name": "Game Development",
         "category": "Game Development",
         "language": "English",
-        "image_url": "https://images.unsplash.com/photo-1556438064-2d7646166914?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210125191945/Top-5-Reasons-to-Learn-Game-Development.png",
         "details": "Gaming is one of the most popular computer activities. New technologies are constantly arriving to make it possible to develop better and more powerful games that can be run in any standards-compliant web browser.Welcome to the MDN game development center! In this area of the site, we provide resources for web developers wanting to develop games. You will find many useful tutorials and technique articles in the main menu on the left, so feel free to explore.",
         "overview": [
             "Create a character from start to finish using Blender.",
@@ -74,7 +74,7 @@
         "name": "React Native",
         "category": "App Development",
         "language": "English",
-        "image_url": "https://images.unsplash.com/photo-1581276879432-15e50529f34b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "image_url": "https://assets.website-files.com/5b6901669b93d7837e36dc4c/615e17a6df037040ed528ccf_React-Native--1--1.png",
         "details": "React Native has been successfully adopted by hundreds of businesses worldwide, including Uber, Microsoft, and Facebook, and is used across a whole range of industries. However, before you decide to go all-in with React Native, it’s crucial that you understand how it works, and decide if it’s the best fit for your project. What are its top advantages and biggest drawbacks? How is it different from other cross-development platforms?nAnd last but not least – what do your developers need to be aware of before they embark on the React Native journey? In the following article, we’ll answer these and other questions – all so you can make an educated choice and see if React Native is ideal for your business.",
         "overview": [
             "Make compelling applications using expert-level features of React Native",
@@ -98,7 +98,11 @@
         "image_url": "https://images.unsplash.com/photo-1633311905139-7b6088a69e33?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
         "details": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud (Adobe's shift to monthly or annual subscription service delivered over the Internet), Illustrator CC was released. The latest version, Illustrator 2022, was released on October 26, 2021, and is the 25th generation in the product line. Adobe Illustrator was reviewed as the best vector graphics editing program in 2021 by PC Magazine.Development of Adobe Illustrator for the Apple Macintosh began in 1985[2] (shipping in January 1987) as a commercialization of Adobe's in-house font development software and PostScript file format. Adobe Illustrator is the companion product of Adobe Photoshop. Photoshop is primarily geared toward digital photo manipulation and photorealistic styles of computer illustration, while Illustrator provides results in the typesetting and logo graphic areas of design.",
         "overview": [
-            "The students are going to learn the tools of Adobe Illustrator CC 2020. Along with the tools they will get a thorough knowledge of Logo Design, Typography and color theory, Social Media Posting, Packaging Design and 3D Mock-up."
+            "Designing logos",
+            "Creating vector illustrations",
+            "Turning photographs into vector artwork",
+            "Vectorizing and colorizing traced hand drawings",
+            "The students are going to learn the tools of Adobe Illustrator CC 2020.."
         ]
     },
     {
@@ -113,7 +117,7 @@
         "name": "Node JS",
         "category": "Web Design And Development",
         "language": "English",
-        "image_url": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "image_url": "https://miro.medium.com/max/1400/1*xdo0UBpyszvD7-7EH4TkIA.png",
         "details": "Node.js can be installed in different ways. This post highlights the most common and convenient ones. Official packages for all the major platforms are available at https://nodejs.dev/download/. One very convenient way to install Node.js is through a package manager. In this case, every operating system has its own. Other package managers for MacOS, Linux, and Windows are listed in https://nodejs.dev/download/package-manager/ nvm is a popular way to run Node.js. It allows you to easily switch the Node.js version, and install new versions to try and easily rollback if something breaks. It is also very useful to test your code with old Node.js versions..",
         "overview": [
             "To build Amazing NodeJS applications like the CMS we build here using Express, MongoDB and more",

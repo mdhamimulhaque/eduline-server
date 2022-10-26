@@ -6,7 +6,8 @@ const port = 5000;
 app.use(cors())
 
 const courses = require("./data/courses.json");
-const navbarData = require("./data/navbarData.json")
+const navbarData = require("./data/navbarData.json");
+const blog = require("./data/blog.json");
 
 
 // ---> check server
@@ -36,6 +37,11 @@ app.get('/checkout/:id', (req, res) => {
     const id = (req.params.id);
     const checkoutItem = courses.find(crs => crs._id === id)
     res.send(checkoutItem)
+})
+
+// ---> blog
+app.get('/blog', (req, res) => {
+    res.send(blog)
 })
 
 app.listen(port, () => {

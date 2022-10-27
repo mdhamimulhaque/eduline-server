@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "qn": "Is this a complete free learning platform?",
+        "ans": "Free and paid both are available in this site. You will lot of free course here."
+    },
+    {
+        "id": 2,
+        "qn": "Can i contribute or sell my course here?",
+        "ans": "Of course, you can. But your content must have premium level."
+    },
+    {
+        "id": 3,
+        "qn": "Can i share my course another site also?",
+        "ans": "No,you can not share this."
+    },
+    {
+        "id": 4,
+        "qn": "Any university teach can share his or her lecture?",
+        "ans": "They can but the lecture must have well organize."
+    }
+]

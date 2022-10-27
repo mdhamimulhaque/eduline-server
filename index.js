@@ -8,6 +8,7 @@ app.use(cors())
 const courses = require("./data/courses.json");
 const navbarData = require("./data/navbarData.json");
 const blog = require("./data/blog.json");
+const faqData = require("./data/faqData.json");
 
 
 // ---> check server
@@ -37,6 +38,11 @@ app.get('/checkout/:id', (req, res) => {
     const id = (req.params.id);
     const checkoutItem = courses.find(crs => crs._id === id)
     res.send(checkoutItem)
+})
+
+// ---> faq
+app.get('/faq', (req, res) => {
+    res.send(faqData)
 })
 
 // ---> blog
